@@ -1,4 +1,4 @@
-# Optimization-for-Analytics
+# Stock Volatility Prediction
 
 Regression based project to predict volatility of stock data.
 Utilizing the finite sum property of the least-squares objective, executing linear regression from sklearn (based on singular value decomposition) and using it to minimize the mean squared error.
